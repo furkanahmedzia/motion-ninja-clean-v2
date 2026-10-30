@@ -172,3 +172,4 @@ jobs:
         with:
           name: motion-ninja-clean-release
           path: rebuild/app/build/outputs/apk/release/app-release.apk# force re-index
+# trigger
